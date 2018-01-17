@@ -32,6 +32,6 @@
     "semantic-release": "^8.0.0"
   },
   "dependencies": {
-    "semver": "^5.4.1"
+    "semver": "5.4.1"
   }
 }
